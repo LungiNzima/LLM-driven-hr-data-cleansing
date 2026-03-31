@@ -1,3 +1,5 @@
 # Data Cleaning
 
-A space for me to practice my data-cleaning skills via python. 
+Repository containing data I have cleaned using python. 
+
+Credit to the following: Data Science with Onur
