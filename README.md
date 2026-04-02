@@ -1,5 +1,3 @@
-# Data Cleaning
+Repository containing data cleaned using python. 
 
-Repository containing data I have cleaned using python. 
-
-Credit to the following: Data Science with Onur
+Credit to the following creator: YT Data Science with Onur 
